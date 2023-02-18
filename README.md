@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 My name is Ruslan, but you can call me Rus.
 
-<!--
-**khesea/khesea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ I'm responsible, motivated, easy-to-learn Frontend Developer;
+- 🍌 I love coding because i think it brings a direct benefit to the society;
+- ☁️ I’m currently learning;
+- 🦉 I am looking for a company to increase my development experience;
+
+### My technology stack
+
+
+
