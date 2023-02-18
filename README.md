@@ -10,19 +10,16 @@
 <hr>
 
 ## MY TECHNOLOGY STACK
-![HTML](/svg/html-5.svg)
-![CSS](/svg/css3.svg)
-![JS](/svg/JS.svg)
-![React](/svg/react.svg)
-![Redux](/svg/redux.svg)
-![TS](/svg/TS.svg)
-![Git](/svg/git.svg)
+![HTML](html-5.svg)
+![CSS](css3.svg)
+![JS](JS.svg)
+![React](react.svg)
+![Git](git.svg)
 
 
 ## MY CONTACTS
-[<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/MPozharskiy/)
-[<img src="./svg/telegram.svg">](https://t.me/MPozharskiy)
-[<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:mamamakc777@gmail.com)
+[<img src="./svg/telegram.svg">](https://t.me/khesearus)
+[<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:khesearus@gmail.com)
   
 
 
