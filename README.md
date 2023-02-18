@@ -19,8 +19,9 @@
 
 ## MY CONTACTS
 [<img src="telegram.svg">](https://t.me/khesearus)
-[<img src="gmail.svg" width="90px" height="90px">](mailto:khesearus@gmail.com)
 [<img src="yahoo.png" width="90px" height="90px" style="margin-left: 30px">](mailto:khesearus@yahoo.com)
+[<img src="gmail.svg" width="90px" height="90px">](mailto:khesearus@gmail.com)
+
   
 
 
