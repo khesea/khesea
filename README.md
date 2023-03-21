@@ -14,6 +14,7 @@
 ![CSS](css3.svg)
 ![JS](JS.svg)
 ![React](react.svg)
+![Redux](redux.svg)
 ![Git](git.svg)
 
 
